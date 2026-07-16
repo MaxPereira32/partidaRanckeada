@@ -1,1 +1,1 @@
-# partidaRanckeada
+# partidaRankeada
