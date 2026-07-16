@@ -1,4 +1,4 @@
-O que fiu utilizado:
+O que foi utilizado:
 
 =========================================================================
 |Requisito	              |Código                                       |
