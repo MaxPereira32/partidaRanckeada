@@ -11,7 +11,7 @@ O que foi utilizado:
 |_______________________________________________________________________|
 |Estruturas de decisões	  |if / else if / else dentro de definirNivel() |
 |_______________________________________________________________________|
-|Funções	              |partidarankeada(saldoVitorias)                  |
+|Funções	              |definirNivel(saldoVitorias)                  |
 |_______________________________________________________________________|
 
 
