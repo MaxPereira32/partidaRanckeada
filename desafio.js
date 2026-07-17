@@ -1,6 +1,6 @@
 
 
-function partidaRankeada(saldoVitorias) {
+function definirNivel(saldoVitorias) {
     if (saldoVitorias <= 10) {
         return "Ferro";
     } else if (saldoVitorias <= 20) {
@@ -26,7 +26,7 @@ while (nivel !== "Imortal") {
     let derrotas = Math.floor(Math.random() * 10) + 1;
 
     saldoVitorias += vitorias - derrotas;
-    nivel = partidaRankeada(saldoVitorias);
+    nivel = definirNivel(saldoVitorias);
 
     console.log(`+${vitorias} vitórias / -${derrotas} derrotas | Saldo: ${saldoVitorias} | Nível: ${nivel}`);
 }
